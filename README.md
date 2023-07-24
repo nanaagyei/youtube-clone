@@ -1,5 +1,4 @@
 # YouTube Clone App
-
 This is a responsive youtube clone web application built using ReactJS and RapidAPI. Users can search, watch, and interact with youtube videos.
 
 Deployed Site: [Youtube Clone App](https://tuby-clone.netlify.app/)
@@ -20,6 +19,11 @@ Deployed Site: [Youtube Clone App](https://tuby-clone.netlify.app/)
 * LocalStorage for watch later items
 * React icons
 * Deployed on Netlify
+
+## Running Locally
+To run this app locally:
+
+Clone the repository
 
 ## Available Scripts
 
