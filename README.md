@@ -46,6 +46,10 @@ npm start
 
 The app will now be running on [http://localhost:3000](http://localhost:3000)
 
+## Contributing
+
+Pull requests are welcome! Feel free to open an issue for any bugs or desired features.
+
 ## Available Scripts
 
 In the project directory, you can run:
